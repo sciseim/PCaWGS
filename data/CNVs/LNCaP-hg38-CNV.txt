@@ -1,0 +1,3 @@
+symbol 	 description 	 CNV 	 chr 	 CNV region 	 gene start 	 gene end
+PWRN1 	 Prader-Willi region non-protein coding RNA 1  	 CN0 	 15 	 15:24430001:24520000 	 24493137 	 24652130
+PWRN3 	 Prader-Willi region non-protein coding RNA 3  	 CN0 	 15 	 15:24430001:24520000 	 24441127 	 24447967

@@ -1,0 +1,63 @@
+symbol 	 description 	 CNV 	 chr 	 CNV region 	 gene start 	 gene end
+DYDC1 	 DPY30 domain containing 1  	 CN0 	 10 	 10:80250001:80560000 	 80336105 	 80356755
+DYDC2 	 DPY30 domain containing 2  	 CN0 	 10 	 10:80250001:80560000 	 80344745 	 80368073
+FAM213A 	 family with sequence similarity 213 member A  	 CN0 	 10 	 10:80250001:80560000 	 80407829 	 80437115
+SH2D4B 	 SH2 domain containing 4B  	 CN0 	 10 	 10:80250001:80560000 	 80537902 	 80646560
+MAT1A 	 methionine adenosyltransferase 1A  	 CN0 	 10 	 10:80250001:80560000 	 80271820 	 80289684
+TSPAN14 	 tetraspanin 14  	 CN0 	 10 	 10:80250001:80560000 	 80454166 	 80533123
+LIPF 	 lipase F, gastric type  	 CN0 	 10 	 10:87910001:88750000 	 88664441 	 88678814
+LIPK 	 lipase family member K  	 CN0 	 10 	 10:87910001:88750000 	 88724544 	 88752786
+LIPJ 	 lipase family member J  	 CN0 	 10 	 10:87910001:88750000 	 88586753 	 88606976
+RNLS 	 renalase, FAD dependent amine oxidase  	 CN0 	 10 	 10:87910001:88750000 	 88273864 	 88584530
+PTEN 	 phosphatase and tensin homolog  	 CN0 	 10 	 10:87910001:88750000 	 87863113 	 87971930
+MIR548AT 	 microRNA 548at  	 CN0 	 17 	 17:42110001:42520000 	 42494773 	 42494830
+STAT5A 	 signal transducer and activator of transcription 5A  	 CN0 	 17 	 17:42110001:42520000 	 42287547 	 42311943
+DHX58 	 DExH-box helicase 58  	 CN0 	 17 	 17:42110001:42520000 	 42101404 	 42112733
+KCNH4 	 potassium voltage-gated channel subfamily H member 4  	 CN0 	 17 	 17:42110001:42520000 	 42156891 	 42181278
+STAT3 	 signal transducer and activator of transcription 3  	 CN0 	 17 	 17:42110001:42520000 	 42313324 	 42388568
+STAT5B 	 signal transducer and activator of transcription 5B  	 CN0 	 17 	 17:42110001:42520000 	 42199168 	 42276707
+HCRT 	 hypocretin neuropeptide precursor  	 CN0 	 17 	 17:42110001:42520000 	 42184060 	 42185452
+ATP6V0A1 	 ATPase H+ transporting V0 subunit a1  	 CN0 	 17 	 17:42110001:42520000 	 42458844 	 42522611
+KAT2A 	 lysine acetyltransferase 2A  	 CN0 	 17 	 17:42110001:42520000 	 42113108 	 42121358
+GHDC 	 GH3 domain containing  	 CN0 	 17 	 17:42110001:42520000 	 42188799 	 42194532
+RAB5C 	 RAB5C, member RAS oncogene family  	 CN0 	 17 	 17:42110001:42520000 	 42124976 	 42155044
+HSPB9 	 heat shock protein family B (small) member 9  	 CN0 	 17 	 17:42110001:42520000 	 42121431 	 42123352
+PTRF 	 polymerase I and transcript release factor  	 CN0 	 17 	 17:42110001:42520000 	 42402452 	 42423517
+CIC 	 capicua transcriptional repressor  	 CN0 	 19 	 19:42280001:42320000 	 42268537 	 42295797
+PRR19 	 proline rich 19  	 CN0 	 19 	 19:42280001:42320000 	 42302098 	 42310821
+PAFAH1B3 	 platelet activating factor acetylhydrolase 1b catalytic subunit 3  	 CN0 	 19 	 19:42280001:42320000 	 42297033 	 42303546
+TMEM145 	 transmembrane protein 145  	 CN0 	 19 	 19:42280001:42320000 	 42313325 	 42325062
+SIRPB1 	 signal regulatory protein beta 1  	 CN0 	 20 	 20:1580001:1620000 	 1563521 	 1620061
+CTNNA1 	 catenin alpha 1  	 CN0 	 5 	 5:138770001:138980000 	 138610967 	 138935034
+LRRTM2 	 leucine rich repeat transmembrane neuronal 2  	 CN0 	 5 	 5:138770001:138980000 	 138868923 	 138875368
+SIL1 	 SIL1 nucleotide exchange factor  	 CN0 	 5 	 5:138770001:138980000 	 138946720 	 139293557
+CDH18 	 cadherin 18  	 CN0 	 5 	 5:19850001:19960000 	 19472951 	 20575873
+USP9Y 	 ubiquitin specific peptidase 9, Y-linked  	 CN0 	 Y 	 Y:11530001:16450000 	 12701231 	 12860839
+DDX3Y 	 DEAD-box helicase 3, Y-linked  	 CN0 	 Y 	 Y:11530001:16450000 	 12904108 	 12920478
+TMSB4Y 	 thymosin beta 4, Y-linked  	 CN0 	 Y 	 Y:11530001:16450000 	 13703567 	 13706024
+NLGN4Y 	 neuroligin 4, Y-linked  	 CN0 	 Y 	 Y:11530001:16450000 	 14522638 	 14845650
+VCY 	 variable charge, Y-linked  	 CN0 	 Y 	 Y:11530001:16450000 	 13985772 	 13986513
+UTY 	 ubiquitously transcribed tetratricopeptide repeat containing, Y-linked  	 CN0 	 Y 	 Y:11530001:16450000 	 13248379 	 13480673
+VCY1B 	 variable charge, Y-linked 1B  	 CN0 	 Y 	 Y:11530001:16450000 	 14056217 	 14056958
+TTTY15 	 testis-specific transcript, Y-linked 15 (non-protein coding)  	 CN0 	 Y 	 Y:11530001:16450000 	 12662334 	 12692233
+TTTY13 	 testis-specific transcript, Y-linked 13 (non-protein coding)  	 CN0 	 Y 	 Y:21420001:21630000 	 21583600 	 21594666
+RBMY1B 	 RNA binding motif protein, Y-linked, family 1, member B  	 CN0 	 Y 	 Y:21420001:21630000 	 21511338 	 21549094
+RBMY1A1 	 RNA binding motif protein, Y-linked, family 1, member A1  	 CN0 	 Y 	 Y:21420001:21630000 	 21511372 	 21549326
+RBMY1D 	 RNA binding motif protein, Y-linked, family 1, member D  	 CN0 	 Y 	 Y:21820001:21930000 	 21880076 	 21894526
+RBMY1E 	 RNA binding motif protein, Y-linked, family 1, member E  	 CN0 	 Y 	 Y:21820001:21930000 	 21903618 	 21918067
+TTTY23B 	 testis-specific transcript, Y-linked 23B (non-protein coding)  	 CN0 	 Y 	 Y:6240001:6530000 	 6242446 	 6243610
+TSPY2 	 testis specific protein, Y-linked 2  	 CN0 	 Y 	 Y:6240001:6530000 	 6246223 	 6249019
+TTTY7 	 testis-specific transcript, Y-linked 7 (non-protein coding)  	 CN0 	 Y 	 Y:6240001:6530000 	 6449468 	 6457906
+TTTY8B 	 testis-specific transcript, Y-linked 8B (non-protein coding)  	 CN0 	 Y 	 Y:6240001:6530000 	 6470773 	 6473630
+LINC00280 	 long intergenic non-protein coding RNA 280  	 CN0 	 Y 	 Y:6240001:6530000 	 6357219 	 6361413
+TTTY1B 	 testis-specific transcript, Y-linked 1B (non-protein coding)  	 CN0 	 Y 	 Y:6240001:6530000 	 6390431 	 6411564
+TTTY21B 	 testis-specific transcript, Y-linked 21B (non-protein coding)  	 CN0 	 Y 	 Y:6240001:6530000 	 6443434 	 6447077
+TTTY7B 	 testis-specific transcript, Y-linked 7B (non-protein coding)  	 CN0 	 Y 	 Y:9450001:10200000 	 9706824 	 9715262
+TTTY21 	 testis-specific transcript, Y-linked 21 (non-protein coding)  	 CN0 	 Y 	 Y:9450001:10200000 	 9717653 	 9721296
+TTTY23 	 testis-specific transcript, Y-linked 23 (non-protein coding)  	 CN0 	 Y 	 Y:9450001:10200000 	 9910798 	 9911962
+TTTY1 	 testis-specific transcript, Y-linked 1 (non-protein coding)  	 CN0 	 Y 	 Y:9450001:10200000 	 9753156 	 9774289
+TTTY22 	 testis-specific transcript, Y-linked 22 (non-protein coding)  	 CN0 	 Y 	 Y:9450001:10200000 	 9801153 	 9813245
+TTTY8 	 testis-specific transcript, Y-linked 8 (non-protein coding)  	 CN0 	 Y 	 Y:9450001:10200000 	 9691100 	 9693957
+TSPY10 	 testis specific protein, Y-linked 10  	 CN0 	 Y 	 Y:9450001:10200000 	 9527880 	 9530682
+TSPY1 	 testis specific protein, Y-linked 1  	 CN0 	 Y 	 Y:9450001:10200000 	 9466955 	 9490081
+FAM197Y5P 	 family with sequence similarity 197 Y-linked member 5, pseudogene  	 CN0 	 Y 	 Y:9450001:10200000 	 9458613 	 9465974
