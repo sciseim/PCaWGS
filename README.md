@@ -1,4 +1,4 @@
-# GHSROS_MS
+# PCaCellLineWGS_MS
 Supplemental information, code, and data for the MS: 
 Inge Seim, Penny L. Jeffery, Patrick B. Thomas, Colleen C. Nelson, Lisa K. Chopin. *Whole-genome sequence of the metastatic PC3 and LNCaP human prostate cancer cell lines*
 
