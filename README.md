@@ -1,6 +1,6 @@
 # PCaCellLineWGS_MS
 Supplemental information, code, and data for the MS: 
-Inge Seim, Penny L. Jeffery, Patrick B. Thomas, Colleen C. Nelson, Lisa K. Chopin. *Whole-genome sequence of the metastatic PC3 and LNCaP human prostate cancer cell lines*
+Inge Seim, Penny L. Jeffery, Patrick B. Thomas, Colleen C. Nelson, Lisa K. Chopin. *Whole-genome sequence of the metastatic PC3 and LNCaP human prostate cancer cell lines*.
 
 *Summary*: 
 See individual scripts for additional information. Genome assemblies (in FASTA format available at ZENODO) and a BLAST server can be found at [ghrelinlab.org](http://ghrelinlab.org).  
