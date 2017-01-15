@@ -21,7 +21,7 @@ LNCaP assembly: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.245173.svg)]
 
 `2C-compare-and-annotate-sample-variants.sh`: compare variants present in two or more samples, filter using SnpSift and annodate using SnpEff.
 
-Output data for PC3 and LNCaP can be found at Zenodo [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.245431.svg)](https://doi.org/10.5281/zenodo.245431) and SnpEff annotation statistics in ./data/SNV-and-indels/stats
+Output data for PC3 and LNCaP can be found at [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.245431.svg)](https://doi.org/10.5281/zenodo.245431) and SnpEff annotation statistics in ./data/SNV-and-indels/stats
 
 
 
