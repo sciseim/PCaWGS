@@ -3,7 +3,7 @@ Supplemental information, code, and data for the MS:
 Inge Seim, Penny L. Jeffery, Patrick B. Thomas, Colleen C. Nelson, Lisa K. Chopin. *Whole-genome sequence of the metastatic PC3 and LNCaP human prostate cancer cell lines*
 
 *Summary*: 
-See individual scripts for additional information. Genome assemblies (in FASTA format available at ZENODO) and a BLAST server at [ghrelinlab.org](http://ghrelinlab.org).  
+See individual scripts for additional information. Genome assemblies (in FASTA format available at ZENODO) and a BLAST server can be found at [ghrelinlab.org](http://ghrelinlab.org).  
 
 de novo genome assembly
 `1A-sga-assembly.sh`: *de novo* genome assembly using [SGA](http://genome.cshlp.org/content/22/3/549.long). Formatted for usage on a HPC usage, but requires <150GB RAM and will work on modern desktops.
