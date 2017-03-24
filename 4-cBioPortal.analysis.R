@@ -88,18 +88,16 @@ metastatic.DF <- mergedDF[which( mergedDF$Sample.Type == "Metastatic"),]
 primary.DF <- mergedDF[which( mergedDF$Sample.Type == "Primary"),]
 
 table(metastatic.DF$CIC.event)
-table(primary.DF$CIC.event)
 # Met
-(4/(4+50+184))*100 # CNV0 1.7%
-(50/(4+50+184))*100 # CNV1 21%
-(184/(4+50+184))*100 # normal 77.3%
-
-77+21
+(10/(10+95+337))*100 # CNV0 2.3%
+(95/(10+95+337))*100 # CNV1 21.5%
+(337/(10+95+337))*100 # normal 76.2%
 
 # Prim.
-(2/(311+11+2))*100 # 0.7%
-(11/(311+11+2))*100 # 3.4%
-(311/(311+11+2))*100 # 96%
+table(primary.DF$CIC.event)
+(19/(19+53+797))*100 # 2.2%
+(53/(19+53+797))*100 # 6.1%
+(797/(19+53+797))*100 # 91.7%
 # CIC: HETLOSS HOMDEL;
 
 
@@ -325,6 +323,3 @@ p <- ggsurvplot(fit, risk.table = FALSE,
                 pval = TRUE, risk.table.y.text.col = TRUE, break.time.by=1,conf.int=FALSE, censor=TRUE, legend="top", palette=currentpalette)
 print(p)
 dev.off()
-# should calculate the survival for each subgroup
-
-
