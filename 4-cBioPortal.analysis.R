@@ -323,3 +323,4 @@ p <- ggsurvplot(fit, risk.table = FALSE,
                 pval = TRUE, risk.table.y.text.col = TRUE, break.time.by=1,conf.int=FALSE, censor=TRUE, legend="top", palette=currentpalette)
 print(p)
 dev.off()
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
